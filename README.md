@@ -78,3 +78,9 @@ https://celine-galla.herokuapp.com/
 ## Known bugs
 
 None identified so far but the user is free to view and identify if any.
+
+## Technologies Used
+
+-Django
+
+-Bootstrap
