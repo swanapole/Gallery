@@ -12,6 +12,7 @@ This application helps a user to view random photos.They can also view according
 
 ## Behaviour Driven development
 
+
 The program should display various photos:
 
 **Input Example:** On page load
@@ -35,3 +36,23 @@ The program should navigate to the searched category when a category is entered 
 **Input Example:** Enter music in the navigation search
 
 **Output Example:** Redirected to the page with photos on music category
+
+## Setup installations
+
+To start using this project use the following commands:
+
+**git clone** https://github.com/swanapole/Gallery
+
+-cd Gallery
+
+-atom .
+
+-code .
+
+To run this program
+
+run this command lines in your terminal:
+
+-python manage.py runserver
+
+-access the application on this localhost address http://127.0.0.1:8000
