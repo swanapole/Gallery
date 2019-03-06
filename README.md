@@ -70,3 +70,11 @@ You need the following to work on the project:
 -virtualenv
 
 -A text Editor
+
+## Link to live website
+
+https://celine-galla.herokuapp.com/
+
+## Known bugs
+
+None identified so far but the user is free to view and identify if any.
