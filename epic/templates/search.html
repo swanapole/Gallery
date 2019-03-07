@@ -4,7 +4,7 @@
 
 {% block styles %}
     {% bootstrap_css %}
-  <link href="https://fonts.googleapis.com/css?family=Srisakdi" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 {% endblock %}
 
 {% block content %}
@@ -13,7 +13,7 @@
     {% if images %}
     <h3>Found {{images|length}} images of searched category {{message}}</h3>
     {% else %}
-    <h3 style="color:blue; font-family: 'Srisakdi', cursive;">There is no category going by the searched term {{message}}</h3>
+    <h3 style="color:blue;font-family: 'Quicksand', sans-serif;">There is no category going by the searched term {{message}}</h3>
     {% endif %}
   </div>
   <div class="row">
